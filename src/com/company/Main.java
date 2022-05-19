@@ -21,11 +21,19 @@ public class Main {
         FacX.size="9999999999m";
 
 
+        //        adding features for Planet2
+        Planet2 Oslo =new Planet2();
+        Oslo.color="Red";
+        Oslo.size="0.00001cm";
+        Oslo.name="Volkyy";
+
+
     //  adding features for planet1
     Planet1Features GulK = new Planet1Features();
     GulK.color="blue";
     GulK.size="321321321km";
     GulK.name="Islak Kedi";
+
 
     }
 }
