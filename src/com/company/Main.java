@@ -19,5 +19,11 @@ public class Main {
         FacX.color="green";
         FacX.radius="738y4932749km";
         FacX.size="9999999999m";
+
+        //        adding features for Planet2
+        Planet2 Oslo =new Planet2();
+        Oslo.color="Red";
+        Oslo.size="0.00001cm";
+        Oslo.name="Volkyy";
     }
 }
